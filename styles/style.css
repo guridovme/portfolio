@@ -34,7 +34,6 @@ h3 {
 }
 .first-screen {
     height: 100vh;
-    margin: 0 auto 150px auto;
     background-image: url(../images/first_screen_image.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -52,8 +51,7 @@ h3 {
 }
 .first-screen p {
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    top: 334px;
     width: 430px;
     Height: 103px;
     color: #ffffff;
