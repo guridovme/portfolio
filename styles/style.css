@@ -39,10 +39,6 @@ h3 {
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
-.first-screen h1 {
-    width: 919px;
-    height: 205px;
-}
 .first-screen-inner {
     width: 1150px;
     box-sizing: border-box;
@@ -56,6 +52,12 @@ h3 {
     Height: 103px;
     color: #ffffff;
     margin-bottom: 29px;
+}
+.first-screen h1 {
+    width: 919px;
+    height: 205px;
+    top: 466px;
+    position: absolute;
 }
 .about {
     width: 1150px;
