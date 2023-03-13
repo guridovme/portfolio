@@ -33,25 +33,22 @@ h3 {
     letter-spacing: -0.03em;
 }
 .first-screen {
-    width: 1150px;
     height: 765px;
     margin: 0 auto 150px auto;
     background-image: url(../images/first_screen_image.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .first-screen h1 {
     width: 919px;
     height: 205px;
 }
-.first-screen-image{
+.first-screen-inner {
     width: 1150px;
     height: 500px;
     box-sizing: border-box;
     position: relative;
-    background-image: url(../images/first_screen_image.png);
-    background-size: contain;
-    background-repeat: no-repeat;
+    
 }
 .first-screen p {
     position: absolute;
