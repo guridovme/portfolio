@@ -47,8 +47,7 @@ h3 {
 .first-screen-inner {
     width: 1150px;
     box-sizing: border-box;
-    position: relative;
-    
+    position: relative;    
 }
 .first-screen p {
     position: absolute;
