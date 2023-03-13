@@ -33,7 +33,7 @@ h3 {
     letter-spacing: -0.03em;
 }
 .first-screen {
-    height: 765px;
+    height: 100vh;
     margin: 0 auto 150px auto;
     background-image: url(../images/first_screen_image.png);
     background-size: cover;
