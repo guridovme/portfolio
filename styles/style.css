@@ -38,6 +38,7 @@ h3 {
     background-image: url(../images/first_screen_image.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: 50% 50%;
 }
 .first-screen h1 {
     width: 919px;
@@ -45,7 +46,6 @@ h3 {
 }
 .first-screen-inner {
     width: 1150px;
-    height: 500px;
     box-sizing: border-box;
     position: relative;
     
