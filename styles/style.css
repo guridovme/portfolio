@@ -90,7 +90,7 @@ h3 {
     bottom: 50px;
     left: 50px;
 }
-.service_item:nth-last-child(1) {
+.project_item:nth-last-child(1) {
     margin-bottom: 80px;
 }
 .see-all-projects {
@@ -112,8 +112,11 @@ h3 {
     background-color: #000;
     color: #1BFF07;
     border: 1px solid #1BFF07;
- }
-
+}
+.competencies {
+    width: 1150px;
+    margin: 0 auto;
+}
 
 
 
@@ -151,10 +154,7 @@ margin: 0px auto 150px auto;
     background-color: #121212;
     padding: 150px 0px;
 }
-.services {
-    width: 1150px;
-    margin: 0 auto;
-}
+
 .services h2{
     color: #FFFFFF;
     padding-bottom: 34px;
