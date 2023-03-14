@@ -141,8 +141,8 @@ h3 {
     margin-bottom: 0;
 }
 .services{
-    min-width: 1150px;
-    padding: 150px 0px;
+    width: 1150px;
+    margin: 0 auto;
 }
 .services h2{
     color: #FFFFFF;
