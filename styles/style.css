@@ -118,13 +118,20 @@ h3 {
     margin: 0 auto;
 }
 .competence_item {
-
+    height: 145px;
+    width: 778px;
 }
 .competence_item h3 {
-
+    font-size: 35px;
+    line-height: 46px;
+    letter-spacing: -0.03em;
+    color: #1BFF07;
 }
 .competence_item p {
-
+    font-size: 22px;
+    line-height: 29px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
 }
 
 .about {
