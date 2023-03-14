@@ -70,13 +70,14 @@ h3 {
 }
 .project_item {
     width: 1150px;
-    height: 548px;
-    margin-bottom: 90px;
+    height: 550px;
 }
 .project_item h3{    
-    line-height: 37px;
+    line-height: 46px;
+    font-size: 35px;
     margin: 15px 0 15px;
-    text-transform: uppercase;    
+    letter-spacing: -0.03em;
+    color: #FFFFFF;   
 }
 .project_item a {
     font-size: 20px;
