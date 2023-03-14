@@ -138,6 +138,39 @@ h3 {
     letter-spacing: -0.03em;
     color: #FFFFFF;
 }
+.services{
+    min-width: 1150px;
+    background-color: #121212;
+    padding: 150px 0px;
+}
+.services h2{
+    color: #FFFFFF;
+    margin-bottom: 74px;
+}
+.service_item {
+    width: 1150px;
+    margin-bottom: 60px;
+}
+.service_item:nth-last-child(1) {
+    margin-bottom: 0;
+  }
+  
+.services h3{
+    line-height: 41px;
+    color: #FFFFFF;
+    padding-top: 13px;
+    padding-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
 
 .about {
 margin: 0px auto 150px auto;
@@ -168,30 +201,7 @@ margin: 0px auto 150px auto;
         color: #fff;
 }
     
-.services-background{
-    min-width: 1150px;
-    background-color: #121212;
-    padding: 150px 0px;
-}
 
-.services h2{
-    color: #FFFFFF;
-    padding-bottom: 34px;
-}
-.service_item {
-    width: 1150px;
-    margin-bottom: 60px;
-}
-.service_item:nth-last-child(1) {
-    margin-bottom: 0;
-  }
-  
-.services h3{
-    line-height: 41px;
-    color: #FFFFFF;
-    padding-top: 13px;
-    padding-left: 5px;
-}
 .full-width {
     min-width: 1150px;
     height: 717px;
