@@ -118,12 +118,10 @@ h3 {
     margin: 0 auto;
 }
 .competence_item {
-    height: 145px;
+    
     width: 778px;
-    position: relative;
 }
 .competence_item img{
-    position: absolute;
     left: 1px;
     top: 1px;
 }    
