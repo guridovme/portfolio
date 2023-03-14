@@ -115,10 +115,9 @@ h3 {
 }
 .competencies {
     width: 1150px;
-    margin: 0 auto;
+    margin: 0 auto 150px auto;
 }
 .competence_item {
-    
     width: 778px;
 }
 .competence_item img{
@@ -138,9 +137,11 @@ h3 {
     letter-spacing: -0.03em;
     color: #FFFFFF;
 }
+.service_item:nth-last-child(1) {
+    margin-bottom: 0;
+}
 .services{
     min-width: 1150px;
-    background-color: #121212;
     padding: 150px 0px;
 }
 .services h2{
@@ -151,17 +152,23 @@ h3 {
     width: 1150px;
     margin-bottom: 60px;
 }
-.service_item:nth-last-child(1) {
-    margin-bottom: 0;
-  }
-  
-.services h3{
+.service_item h3{
     line-height: 41px;
     color: #FFFFFF;
     padding-top: 13px;
     padding-left: 5px;
 }
-
+.service_item p{
+    line-height: 41px;
+    color: #FFFFFF;
+    padding-top: 13px;
+    padding-left: 5px;
+}
+.service_item:nth-last-child(1) {
+    margin-bottom: 0;
+  }
+  
+ 
 
 
 
