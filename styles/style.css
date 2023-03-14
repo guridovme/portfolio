@@ -117,25 +117,32 @@ h3 {
     width: 1150px;
     margin: 0 auto;
 }
+.competence_item {
 
+}
+.competence_item h3 {
 
+}
+.competence_item p {
+
+}
 
 .about {
 margin: 0px auto 150px auto;
-    }
-    .about h2{
-        margin-bottom: 30px;
-    }
-    .about-text {
-        width: 1048px;
-        height: 366px;
-        margin-bottom: 30px;
-        font-size: 45px;
-        line-height: 61px;
-        color: #000000;
-        letter-spacing: -0.03em;
-    }
-    .viewservices{
+}
+.about h2{
+    margin-bottom: 30px;
+}
+.about-text {
+    width: 1048px;
+    height: 366px;
+    margin-bottom: 30px;
+    font-size: 45px;
+    line-height: 61px;
+     color: #000000;
+    letter-spacing: -0.03em;
+}
+.viewservices{
         display: block;
         width: 255px;
         height: 67px;
@@ -147,7 +154,7 @@ margin: 0px auto 150px auto;
         text-decoration: none;
         border-radius: 5px;
         color: #fff;
-    }
+}
     
 .services-background{
     min-width: 1150px;
