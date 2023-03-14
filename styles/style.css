@@ -120,12 +120,19 @@ h3 {
 .competence_item {
     height: 145px;
     width: 778px;
+    position: relative;
 }
+.competence_item img{
+    position: absolute;
+    left: 1px;
+    top: 1px;
+}    
 .competence_item h3 {
     font-size: 35px;
     line-height: 46px;
     letter-spacing: -0.03em;
     color: #1BFF07;
+    margin-bottom: 15px;
 }
 .competence_item p {
     font-size: 22px;
