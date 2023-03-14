@@ -77,14 +77,12 @@ h3 {
     font-size: 35px;
     margin: 15px 0 15px;
     letter-spacing: -0.03em;
-    color: #FFFFFF;   
+    color: #FFFFFF;  
+    margin-bottom: 5px; 
 }
-.project_item a {
-    font-size: 20px;
-    line-height: 31px;
-    color: #AD1818;
-    text-decoration: none;
-    letter-spacing: -0.03em;
+.project_item p {
+    font-size: 30px;
+    line-height: 39px;
 }
 
 .about {
