@@ -32,6 +32,26 @@ h3 {
     font-size: 30px;
     letter-spacing: -0.03em;
 }
+.header {
+    position: relative;
+}
+.header-inner{
+    width: 1150px;
+    margin: 0 auto;
+}
+.header logo {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 42.4138px;
+    line-height: 55px;
+    letter-spacing: -0.11em;
+    text-decoration: none;
+    color: #1BFF07;
+    background-color: #000;
+    border-radius: 100px;
+
+}
+
 .first-screen {
     height: 765px;
     background-image: url(../images/first_screen_image.png);
@@ -261,9 +281,7 @@ h3 {
 
 /* ~~ Top Navigation Bar ~~ */
 
-.header-bar {
-    margin-bottom: 70px;
-}
+
 
 .header-container {
     position: relative;
