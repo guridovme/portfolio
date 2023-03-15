@@ -71,6 +71,13 @@ h3 {
     display: inline-block;
     margin-left: 41px;
 }
+
+.menu:hover {
+    color: #1BFF07;
+}  
+.menu:active {
+    color: #1BFF07;
+}  
 .first-screen {
     height: 765px;
     background-image: url(../images/first_screen_image.png);
@@ -291,41 +298,3 @@ h3 {
     position: absolute;
     top: 172px;
 }
-
-
-
-
-
-
-
-.logo-link {
-    display: inline-block;
-}
-.header-logo {
-    display: block;
-    top: 32px;
-    position: absolute;   
-}
-.mbenu {
-    display:inline-block;
-    position: absolute;
-    left: 686px;
-}
-.menu__item {
-    display: inline-block;
-    text-decoration: none;
-    line-height: 25px;
-    margin-right: 57px;
-    font-weight: 400;
-    font-size: 18px;
-    text-transform: uppercase;
-    color: #121212;
-}
-.menu__item:hover {
-    border-bottom: 1px solid #121212;
-    opacity: 0.5;
-}  
-.menu__item:active {
-    border-bottom: 1px solid #121212;
-    opacity: 0.5;
-}  
