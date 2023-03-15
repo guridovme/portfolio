@@ -186,10 +186,11 @@ h3 {
 }
 .contacts {
     min-width: 1150px;
-    
-    margin: 0 auto;
+    height: 717px;
+    margin: 0 auto 150px auto;
     background: #191C19;
     border-radius: 30px;
+    position: relative;
 }
 .contacts-inner {
     width: 1150px;
@@ -201,12 +202,19 @@ h3 {
     line-height: 60px;
     letter-spacing: -0.03em;
     color: #FFFFFF;
+    position: absolute;
+    top: 320px;
 }  
+.contacts ul {
+    position: absolute;
+    bottom:89px;
+} 
 .contacts a {
     font-size: 60px;
     line-height: 60px;
     letter-spacing: -0.03em;
     color: #FFFFFF;
+    display: block;
 } 
 
 
