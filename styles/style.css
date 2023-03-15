@@ -213,11 +213,7 @@ h3 {
     bottom:89px;
 } 
 .contacts ul li {
-    font-size: 60px;
-    line-height: 60px;
-    letter-spacing: -0.03em;
-    color: #FFFFFF;
-    display: block;
+    padding-top: 20px;
 } 
 .contacts a {
     font-size: 60px;
@@ -261,112 +257,6 @@ h3 {
 
 
 
-
-
-.about-text {
-    width: 1048px;
-    height: 366px;
-    margin-bottom: 30px;
-    font-size: 45px;
-    line-height: 61px;
-     color: #000000;
-    letter-spacing: -0.03em;
-}
-.viewservices{
-        display: block;
-        width: 255px;
-        height: 67px;
-        text-align: center;
-        line-height: 67px;
-        font-weight: 400;
-        font-size: 20px;
-        background-color: #ad1818;
-        text-decoration: none;
-        border-radius: 5px;
-        color: #fff;
-}
-    
-
-.full-width {
-    min-width: 1150px;
-    height: 717px;
-    background-image: url(../images/bottom_image.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    position: relative;
-
-}
-.full-width-wrapper {
-    width: 1150px;
-    margin: 0 auto;
-}
-.full-width p {
-    width: 443px;
-    position: absolute;
-    bottom: 60px;
-    font-size: 30px;
-    line-height: 41px;
-    color: #FFFFFF;
-    letter-spacing: -0.03em;
-}
-.contacts_wrapper{
-    min-width: 1150px;
-}
-
-.contacts h2::before {
-    content: '';
-    display: block;
-    width: 24px;
-    height: 24px;
-    background-image: url(../images/phone_icon.png);
-    margin-bottom: 11px;
-    margin-left: -5px;
-}
-.phone  {
-    font-size: 60px;
-    margin-bottom: 28px;
-    color: #121212;
-    text-decoration: none;
-    display: block;
-    letter-spacing: -0.03em;
-}
-.email {
-    font-size: 60px;
-    letter-spacing: -0.03em;
-    color: #121212;
-    text-decoration: none;
-    border-bottom: 2px solid #121212;
-    opacity: 0.5;
-}
-.footer_wrapper {
-    min-width: 1150px;
-    padding-top: 60px;
-    padding-bottom: 30px;
-    background-color: #121212;
-}
-
-.footer_menu {
-    display:inline-block;
-    margin-bottom: 87px;
-}
-.footer_menu_item{
-    margin-right: 52px;
-    color: #ffffff;
-    font-size: 18px;
-    line-height: 25px;
-    text-transform: uppercase;
-    text-decoration: none;
-}
-.footer_menu_item:hover {
-    opacity: 0.5;
-}  
-.footer_menu_item:active {
-    opacity: 0.5;
-}  
-.footer_menu_item:nth-last-child(1) {
-    margin-right: 0;
-}
 
 /* ~~ Top Navigation Bar ~~ */
 
