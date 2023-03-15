@@ -54,9 +54,11 @@ h3 {
     position: absolute;
     top: 36px;
 }
-.menu ul{
+.menu {
     display: inline-block;
-
+    position: absolute;
+    top: 36px;
+    right: 0px;
 }
 .menu li{
     font-size: 18px;
