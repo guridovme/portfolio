@@ -190,6 +190,8 @@ h3 {
     height: 717px;
     margin: 0 auto 150px auto;
     background: #191C19;
+    background-image: url(images/programmer.png);
+    
     border-radius: 30px;
     position: relative;
 }
