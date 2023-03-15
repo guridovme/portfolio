@@ -51,12 +51,20 @@ h3 {
     border-radius: 100px;
     position: absolute;
     top: 36px;
+    left:0px;
 }
-.menu{
+.menu ul{
+    
+    position: absolute;
+    top: 36px;
+    right:0px;
+}
+.menu li{
     font-size: 18px;
     line-height: 23px;
     letter-spacing: -0.03em;
     color: #FFFFFF;
+    text-decoration: none;
 }
 .first-screen {
     height: 765px;
