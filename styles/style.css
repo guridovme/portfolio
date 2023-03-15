@@ -163,22 +163,24 @@ h3 {
 .service_item_back {
     width: 1150px;
     height: 283px;
-    left: 125px;
-    top: 4953px;
     background: #191C19;
     border-radius: 30px;
+    position: relative;
 }
 .service_item h3{
     font-size: 55px;
     line-height: 72px;
-    letter-spacing: -0.03em;
     color: #1BFF07;
+    top:40px;
+    margin-bottom: 15px;
 }
 .service_item p{
     font-size: 22px;
     line-height: 29px;
-    letter-spacing: -0.03em;
-    color: #FFFFFF;
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    width: 749px;
 }
 .service_item:nth-last-child(1) {
     margin-bottom: 0;
