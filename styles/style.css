@@ -75,8 +75,6 @@ h3 {
 .project_item h3{    
     line-height: 46px;
     font-size: 35px;
-    margin: 15px 0 15px;
-    letter-spacing: -0.03em;
     color: #FFFFFF;  
     margin-bottom: 5px; 
     position: absolute;
@@ -107,6 +105,7 @@ h3 {
     letter-spacing: -0.03em;
     background: #1BFF07;
     border-radius: 4.67354px;
+    margin-top: 80px;
 }
 .see-all-projects:hover {
     background-color: #000;
@@ -147,6 +146,9 @@ h3 {
 .services h2{
     color: #FFFFFF;
     margin-bottom: 74px;
+    font-size: 35px;
+    line-height: 46px;
+    width: 400px;
 }
 .service_item {
     width: 1150px;
