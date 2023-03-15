@@ -212,6 +212,13 @@ h3 {
     position: absolute;
     bottom:89px;
 } 
+.contacts ul li {
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    display: block;
+} 
 .contacts a {
     font-size: 60px;
     line-height: 60px;
