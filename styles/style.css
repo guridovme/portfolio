@@ -39,7 +39,7 @@ h3 {
     width: 1150px;
     margin: 0 auto;
 }
-.header logo {
+.logo {
     display: inline-block;
     font-weight: 700;
     font-size: 42.4138px;
@@ -49,9 +49,15 @@ h3 {
     color: #1BFF07;
     background-color: #000;
     border-radius: 100px;
-
+    position: absolute;
+    top: 36px;
 }
-
+.menu{
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
 .first-screen {
     height: 765px;
     background-image: url(../images/first_screen_image.png);
@@ -321,8 +327,3 @@ h3 {
     border-bottom: 1px solid #121212;
     opacity: 0.5;
 }  
-
-.menu__item:nth-last-child(1) {
-    margin-right: 0;
-}
-  
