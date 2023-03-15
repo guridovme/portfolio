@@ -117,12 +117,15 @@ h3 {
     width: 1150px;
     margin: 0 auto 150px auto;
 }
+.competencies h2{
+    margin-bottom: 48px;
+}
 .competence_item {
     width: 778px;
+    margin-bottom: 60px;
 }
 .competence_item img{
-    left: 1px;
-    top: 1px;
+    margin-bottom: 12px;
 }    
 .competence_item h3 {
     font-size: 35px;
