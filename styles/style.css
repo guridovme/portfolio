@@ -270,6 +270,12 @@ h3 {
     color: #FFFFFF;
     text-decoration: none;
 } 
+.contacts a:hover {
+    color: #1BFF07;
+}  
+.contacts a:active {
+    color: #1BFF07;
+}  
 .footer {
     margin: 0 auto;
     background-color: #FFFFFF;
