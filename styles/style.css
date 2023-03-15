@@ -38,10 +38,6 @@ h3 {
     margin: 0 auto;
     min-width: 1150px;
 }
-.header-inner{
-    width: 1150px;
-    margin: 0 auto;
-}
 .logo {
     display: inline-block;
     font-weight: 700;
@@ -58,11 +54,12 @@ h3 {
     padding-right: 18px;
     padding-left: 9px;
     padding-bottom: 3px;
+    left: -2px;
 }
 .menu {
     display: inline-block;
     position: absolute;
-    top: 36px;
+    top: 33px;
     right: 0px;
 }
 .menu li{
