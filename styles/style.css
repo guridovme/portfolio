@@ -66,16 +66,17 @@ h3 {
     font-size: 18px;
     line-height: 23px;
     letter-spacing: -0.03em;
-    color: #FFFFFF;
-    text-decoration: none;
     display: inline-block;
     margin-left: 41px;
 }
-
-.menu:hover {
+.menu a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.menu a:hover {
     color: #1BFF07;
 }  
-.menu:active {
+.menu a:active {
     color: #1BFF07;
 }  
 .first-screen {
