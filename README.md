@@ -1,2 +1,1 @@
-# portfolio
-Портфолио
+https://guridovme.github.io/portfolio/
