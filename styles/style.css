@@ -116,12 +116,12 @@ h3 {
     margin-bottom: 40px;
     margin-left: -5px;
 }
-.project_item {
+.project-item {
     width: 1150px;
     height: 550px;
     position: relative;
 }
-.project_item h3{    
+.project-item h3{    
     line-height: 46px;
     font-size: 35px;
     color: #FFFFFF;  
@@ -130,14 +130,14 @@ h3 {
     top: 410px;
     left: 50px;
 }
-.project_item p {
+.project-item p {
     font-size: 30px;
     line-height: 39px;
     position: absolute;
     bottom: 50px;
     left: 50px;
 }
-.project_item:nth-child(4) {
+.project-item:nth-child(4) {
     margin-bottom: 80px;
 }
 .see-all-projects {
@@ -167,21 +167,21 @@ h3 {
 .competencies h2{
     margin-bottom: 48px;
 }
-.competence_item {
+.competence-item {
     width: 778px;
     margin-bottom: 60px;
 }
-.competence_item img{
+.competence-item img{
     margin-bottom: 12px;
 }    
-.competence_item h3 {
+.competence-item h3 {
     font-size: 35px;
     line-height: 46px;
     letter-spacing: -0.03em;
     color: #1BFF07;
     margin-bottom: 15px;
 }
-.competence_item p {
+.competence-item p {
     font-size: 22px;
     line-height: 29px;
 }
@@ -196,24 +196,24 @@ h3 {
     line-height: 46px;
     width: 400px;
 }
-.service_item {
+.service-item {
     width: 1150px;
     margin-bottom: 74px;
 }
-.service_item img {
+.service-item img {
     width: 1150px;
     height: 200px;
     border-radius: 30px;
     vertical-align: top;
 }
-.service_item_back {
+.service-item-back {
     width: 1150px;
     height: 283px;
     background: #191C19;
     border-radius: 30px;
     position: relative;
 }
-.service_item h3{
+.service-item h3{
     font-size: 55px;
     line-height: 72px;
     color: #1BFF07;
@@ -222,7 +222,7 @@ h3 {
     margin-bottom: 15px;
     position: absolute;
 }
-.service_item p{
+.service-item p{
     font-size: 22px;
     line-height: 29px;
     position: absolute;
@@ -231,7 +231,7 @@ h3 {
     width: 749px;
 }
 
-.service_item:nth-last-child(1) {
+.service-item:nth-last-child(1) {
     margin-top: 137px;
     margin-bottom: 0px;
 }
