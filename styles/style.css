@@ -204,6 +204,7 @@ h3 {
     width: 1150px;
     height: 200px;
     border-radius: 30px;
+    vertical-align: top;
 }
 .service_item_back {
     width: 1150px;
