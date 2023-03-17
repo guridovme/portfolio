@@ -121,6 +121,9 @@ h3 {
     height: 550px;
     position: relative;
 }
+.project-item:hover {
+    background-color: #1BFF07;
+}
 .project-item h3{    
     line-height: 46px;
     font-size: 35px;
