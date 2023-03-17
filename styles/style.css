@@ -121,7 +121,7 @@ h3 {
     height: 550px;
     position: relative;
 }
-.project-item:hover {
+.project-item:hover a {
     background-color: #1BFF07;
 }
 .project-item h3{    
