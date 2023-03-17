@@ -121,8 +121,11 @@ h3 {
     height: 550px;
     position: relative;
 }
-.project-item:hover a {
+.project-item a:hover {
     background-color: #1BFF07;
+}
+.project-item img {
+    border-radius: 30px;
 }
 .project-item h3{    
     line-height: 46px;
