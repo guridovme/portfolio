@@ -121,8 +121,12 @@ h3 {
     height: 550px;
     position: relative;
 }
+.project-item a {
+    color: #ffffff;
+    text-decoration: none;
+}
 .project-item a:hover {
-    background-color: #1BFF07;
+    color: #1BFF07;
 }
 .project-item img {
     border-radius: 30px;
